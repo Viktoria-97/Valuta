@@ -1,0 +1,17 @@
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\Valuta.exe.config
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\Valuta.exe
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\Valuta.pdb
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\EntityFramework.dll
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\System.Data.SQLite.dll
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\EntityFramework.xml
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\System.Data.SQLite.xml
+C:\Users\Home-PC\source\repos\Valuta\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Home-PC\source\repos\Valuta\obj\Debug\Valuta.csprojAssemblyReference.cache
+C:\Users\Home-PC\source\repos\Valuta\obj\Debug\Valuta.csproj.CoreCompileInputs.cache
+C:\Users\Home-PC\source\repos\Valuta\obj\Debug\Valuta.csproj.CopyComplete
+C:\Users\Home-PC\source\repos\Valuta\obj\Debug\Valuta.exe
+C:\Users\Home-PC\source\repos\Valuta\obj\Debug\Valuta.pdb
